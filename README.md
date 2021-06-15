@@ -1,11 +1,17 @@
 
 ## Hi I'm Enissay <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Enissay, a Java Developer (Usually dev in Minecraft) for ~4 years.
+I'm Enissay, a French Boy Java Developer (Usually dev in Minecraft) for ~4 years.
 
 :mailbox: Reach me out!
 
 [![Youtube Badge](https://img.shields.io/badge/-Enissay-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4_NXduuhsI7qfSVqNUoPlQ/videos)
+
+- 🔭 I’m currently working on **LentiaMC** (Minecraft Project).
+- 🌱 I’m currently learning `Java`, `JavaScript`, `Python`, `CSS`, `HTML`, `Lua` etc...
+- 🤔 I’m looking for help with Projects Ideas.
+- 📫 How to reach me: Enissay#9910.
+- 😄 Pronouns: He/Him
 
 #### Profile Visits 
 
