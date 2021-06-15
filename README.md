@@ -20,7 +20,7 @@ I'm Enissay, a French Boy Java Developer (Usually dev in Minecraft) for ~4 years
 #### Github Stats
 
 ![EnissayDev's github stats](https://github-readme-stats.vercel.app/api?username=EnissayDev&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnissayDev&layout=compact)](https://github.com/EnissayDev/EnissayDev)
 
 <!--
 **EnissayDev/EnissayDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
