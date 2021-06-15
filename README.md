@@ -11,8 +11,6 @@ I'm Enissay, a Java Developer (Usually dev in Minecraft) for ~4 years.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EnissayDev)
 
-<br >
-
 #### Github Stats
 
 ![EnissayDev's github stats](https://github-readme-stats.vercel.app/api?username=EnissayDev&count_private=true&theme=tokyonight&hide=contribs,prs)
