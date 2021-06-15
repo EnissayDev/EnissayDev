@@ -20,6 +20,7 @@ I'm Enissay, a French Boy Java Developer (Usually dev in Minecraft) for ~4 years
 #### Github Stats
 
 ![EnissayDev's github stats](https://github-readme-stats.vercel.app/api?username=EnissayDev&count_private=true&theme=tokyonight&hide=contribs,prs)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnissayDev&langs_count=8?theme=dark)](https://github.com/EnissayDev/EnissayDev)
 
 <!--
