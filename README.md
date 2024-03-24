@@ -9,8 +9,7 @@ I'm Enissay, a Java Developer (Usually dev in Minecraft) since 2017.
 
 - 🔭 I’m currently working on **DungeonsSim** (Minecraft Project).
 - 🌱 I’m currently learning `C`, `C++`.
-- 🤔 I’m looking for help with Projects Ideas.
-- 📫 How to reach me: Enissay#9910.
+- 📫 How to reach me: enissay._
 - 😄 Pronouns: He/Him
 
 #### Profile Visits 
