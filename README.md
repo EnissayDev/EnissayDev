@@ -7,8 +7,8 @@ I'm Enissay, a Java Developer (Usually dev in Minecraft) since 2017.
 
 [![Youtube Badge](https://img.shields.io/badge/-Enissay-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4_NXduuhsI7qfSVqNUoPlQ/videos)
 
-- 🔭 I’m currently working on **LentiaMC** (Minecraft Project).
-- 🌱 I’m currently learning `Java`, `JavaScript`, `Python`, `CSS`, `HTML`, `Lua` etc...
+- 🔭 I’m currently working on **DungeonsSim** (Minecraft Project).
+- 🌱 I’m currently learning `C`, `C++`.
 - 🤔 I’m looking for help with Projects Ideas.
 - 📫 How to reach me: Enissay#9910.
 - 😄 Pronouns: He/Him
